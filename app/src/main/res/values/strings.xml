@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NavigationDrawerShit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="how_do_you_feel_today">How do you feel today?</string>
+    <string name="how_do_you_feel_today_my_friend">How do you feel today my friend?</string>
+    <string name="are_you_motivated_for_today">Are you motivated for today?</string>
+    <string name="do_you_have_plans_for_today">Do you have plans for today?</string>
+    <string name="are_you_going_to_be_happy_if_you_accomplish_your_goals_for_today">Are you going to be happy if you accomplish your goals for today?</string>
+    <string name="are_you_ready_for_one_more_unexpected_adventure">Are you ready for one more unexpected adventure?</string>
+    <string name="how_it_s_going_my_friend">How it\'s going my friend?</string>
+    <string name="have_you_fulfilled_your_morning_expectations">Have you fulfilled your morning expectations?</string>
+    <string name="are_you_still_motivated_for_upcoming_challenges">Are you still motivated for upcoming challenges?</string>
+    <string name="how_hard_are_you_willing_to_finish_your_day_in_a_desirable_way">How hard are you willing to finish your day in a desirable way?</string>
+    <string name="are_you_ready_for_upcoming_obstacles">Are you ready for upcoming obstacles?</string>
+    <string name="how_was_your_day_my_friend">How was your day my friend?</string>
+    <string name="have_you_eaten_well">Have you eaten well?</string>
+    <string name="have_you_slept_well">Have you slept well?</string>
+    <string name="have_you_helped_someone_to_get_her_his_goals_and_dreams">Have you helped someone to get her/his goals and dreams?</string>
+    <string name="have_you_accomplished_your_todays_goals">Have you accomplished your todays goals?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crappy">crappy</string>
+    <string name="so_so">so so</string>
+    <string name="good">good</string>
+    <string name="happy">happy</string>
+    <string name="excited">excited</string>
+    <string name="absolutely_not">absolutely not</string>
+    <string name="not_really">not really</string>
+    <string name="well_maybe">well, maybe</string>
+    <string name="yes_i_am">yes, I am</string>
+    <string name="of_course">of course</string>
+</resources>
