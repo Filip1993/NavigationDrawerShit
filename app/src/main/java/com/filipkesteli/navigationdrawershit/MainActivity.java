@@ -88,9 +88,11 @@ public class MainActivity extends AppCompatActivity
             FragmentManager fragmentManager = getSupportFragmentManager();
             fragmentManager.beginTransaction().replace(R.id.drawer_layout, new MorningAskFragment()).commit();
         } else if (id == R.id.afternoonAskFragment) {
-            //intentGoToProbniActivity();
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.drawer_layout, new AfternoonAskFragment()).commit();
         } else if (id == R.id.eveningAskFragment) {
-
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.drawer_layout, new EveningAskFragment()).commit();
         } else if (id == R.id.nav_manage) {
 
         } else if (id == R.id.nav_share) {
@@ -109,9 +111,4 @@ public class MainActivity extends AppCompatActivity
 //        Intent intent = new Intent(MainActivity.this, MorningAskActivity.class);
 //        startActivity(intent);
 //    }
-
-    private void intentGoToMorningAskActivity() {
-        Intent intent = new Intent(MainActivity.this, ProbniActivity.class);
-        startActivity(intent);
-    }
 }

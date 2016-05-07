@@ -20,7 +20,6 @@
         </activity>
         <activity android:name=".EveningAskActivity" />
         <activity android:name=".AfternoonAskActivity" />
-        <activity android:name=".ProbniActivity"></activity>
     </application>
 
 </manifest>
